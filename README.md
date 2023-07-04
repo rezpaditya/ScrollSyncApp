@@ -1,6 +1,6 @@
 # ScrollSyncApp
 
-Synchronous scrolling react native app prototpye using PeerJS web-RTC communication.
+Synchronous scrolling react-native app prototype using PeerJS web-RTC (serverless) communication.
 
-Demo:
+## Demo
 ![](https://github.com/rezpaditya/ScrollSyncApp/blob/main/demo.gif)
